@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="KotlinJavaRuntime" type="repository">
+  <library name="KotlinJavaRuntim" type="repository">
     <properties maven-id="org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.3.20" />
     <CLASSES />
     <JAVADOC />
